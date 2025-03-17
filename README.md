@@ -1,6 +1,4 @@
-https://github.com/Li-ZK/WGDT.
-
-This is a code demo for the paper "Open-Set Domain Adaptation for Hyperspectral Image Classification Based on Weighted Generative Adversarial Networks and Dynamic Thresholding".
+This is a code demo for the paper "Open-Set Domain Adaptation for Hyperspectral Image Classification Based on Weighted Generative Adversarial Networks and Dynamic Thresholding". IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3549951.
 
 [1]Ke Bi, Zhaokui Li, Yushi Chen, Qian Du, Li Ma, Yan Wang, Zhuoqun Fang, Mingtai Qi, “Open-Set Domain Adaptation for Hyperspectral Image Classification Based on Weighted Generative Adversarial Networks and Dynamic Thresholding,” IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3549951.
 
